@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;gui.util.Alert.java&apos; to &apos;Alerts.java&apos;&#x0D;&#x0A;- Original project: &apos;javafx3&apos;&#x0D;&#x0A;- Original element: &apos;gui.util.Alert.java&apos;&#x0D;&#x0A;- Renamed element: &apos;gui.util.Alerts.java&apos;" description="Rename compilation unit &apos;Alert.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;gui.util{Alert.java" name="Alerts.java" references="false" stamp="1678047546754" version="1.0"/>
+</session>

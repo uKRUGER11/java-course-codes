@@ -1,0 +1,3 @@
+.mainvbox {
+	-fx-background-color: "black";
+}
